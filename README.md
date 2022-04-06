@@ -1,2 +1,2 @@
-# gitops-seed-cluster
-this is for fun, ain't it grand!
+# byoc
+Bring Your Own Cluster to Bootstrap Cloud Native Applications Remotely!
