@@ -1,6 +1,6 @@
 # BYOK (Bring Your Own Kubernetes)
 
-The purpose of BYOK is enable end user can bring their own Kubernetes/OpenShift Cluster to deploy Cloud Native Applications on remote Kubernetes/OCP Clusters via GitOps.
+The purpose of BYOK is enable end user can bring their own Kubernetes/OpenShift Cluster to deploy Cloud Native Applications on local/remote/single/multiple/on-prem/cloud Kubernetes/OCP Clusters via GitOps.
 
 ```console
 guangyaliu@Guangyas-MBP-2 byoc % make local.up
